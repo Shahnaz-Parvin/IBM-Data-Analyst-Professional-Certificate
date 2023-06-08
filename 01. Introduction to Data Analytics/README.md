@@ -34,3 +34,8 @@ To verify the certificates, click the images to follow the links.
 ![Data_Analytics_Essentials](https://github.com/Shahnaz-Parvin/IBM-Data-Analyst-Professional-Certificate/assets/52532148/cbb64276-feff-431c-9c75-40f6fd135f5b)
 
 
+
+
+
+[Coursera N2ZGRJA9DFKR.pdf](https://github.com/Shahnaz-Parvin/IBM-Data-Analyst-Professional-Certificate/files/11682822/Coursera.N2ZGRJA9DFKR.pdf)
+
