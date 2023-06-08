@@ -37,5 +37,5 @@ To verify the certificates, click the images to follow the links.
 
 
 
-[Coursera N2ZGRJA9DFKR.pdf](https://github.com/Shahnaz-Parvin/IBM-Data-Analyst-Professional-Certificate/files/11682822/Coursera.N2ZGRJA9DFKR.pdf)
+
 
