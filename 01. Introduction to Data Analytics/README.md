@@ -35,6 +35,10 @@ To verify the certificates, click the images to follow the links.
 
 
 
+https://coursera.org/share/a2e3efca84920daba6f47ccb1c42fb75
+
+
+
 
 
 
